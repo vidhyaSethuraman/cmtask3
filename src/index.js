@@ -7,7 +7,7 @@ import Card from './Card';
 
 ReactDOM.render(
   <>
-  <Card/>
+  <p>helloooooooooooo</p>
   </>,
   document.getElementById("root")
 );
