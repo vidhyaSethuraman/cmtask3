@@ -1,2 +1,0 @@
-(this.webpackJsonprone=this.webpackJsonprone||[]).push([[0],[,,,function(e,n,t){e.exports=t(4)},function(e,n,t){"use strict";t.r(n);var r=t(0),o=t.n(r),a=t(2);t.n(a).a.render(o.a.createElement(o.a.Fragment,null,o.a.createElement("p",null,"hello")),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.fc064472.chunk.js.map
