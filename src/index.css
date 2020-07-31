@@ -1,0 +1,12 @@
+body{background-image: url("ilfly2.jpg");background-color: whitesmoke;background-size: 400px;background-repeat: repeat-x;color:purple;font-family: cursive;}
+marquee{color:purple;font-size: x-large;font-family: cursive;padding:10px}
+h2{color:navy;font-family: cursive;font-size: 40px;text-align: center}
+details{font-size: 23px;font-family: cursive;color:orchid}
+input[type=text]{width:25%;border-color: orchid;height: 5%;border-style: solid}
+input[type=date]{width:25%;border-color: orchid;height: 5%;border-style:solid}
+input[type=submit] {width: 25%;background-color:gray;color: white;padding: 14px 20px;margin: 8px 0;font-family: cursive;font-size:20px;}
+input[type=submit]:hover {background-color:darkgrey;}
+.card{background-color: white;width:300px;height: 300px;outline: black;border:black solid;}
+.card:hover{outline:orchid solid}
+.hello{width:300px;height: 100px;padding:}
+span{text-align: center}
