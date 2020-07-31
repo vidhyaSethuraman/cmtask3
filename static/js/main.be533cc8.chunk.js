@@ -1,0 +1,2 @@
+(this.webpackJsonprone=this.webpackJsonprone||[]).push([[0],[,,,function(e,a,n){e.exports=n(4)},function(e,a,n){"use strict";n.r(a);var t=n(0),l=n.n(t),r=n(2);n.n(r).a.render(l.a.createElement(l.a.Fragment,null,l.a.createElement("p",null,"hello"),l.a.createElement("p",null,"bye"),l.a.createElement("p",null,"vidhyaaaaaaaaaaaaaa")),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.be533cc8.chunk.js.map
